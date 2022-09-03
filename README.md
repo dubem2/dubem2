@@ -10,10 +10,10 @@ I'm a prospective Cloud Engineer, and currently a student at AltSchool Africa.
 ### Here's a bit of me:
 
 <samp>
-- 🌱 I’m currently learning learning JavaScript, Cloud, and DevOps.
+- 🌱 I’m currently learning learning Cloud Engineering, Cloud Solutions Architecture, JavaScript, and DevOps.
 </samp><br>
 <samp>
-- 💼 Job interests: Software Engineer, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
+- 💼 Job interests: Cloud Solutions Architect, Cloud Engineer, or DevOps Engineer (Intern or Junior level).
 </samp><br>
 <!-- <samp>
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
