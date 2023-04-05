@@ -12,7 +12,7 @@ I'm a Cloud Engineer, and currently a student at AltSchool Africa.
 - 🌱 I’m currently learning Terraform, Docker, and Kubernetes.
 - 💼 Job interests: System Administrator/Cloud Solutions Architect/Cloud Developer/Cloud DevOps Engineer/S.R.E. (Intern or Junior level).
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1gdaRhKqDxzD6dn8Y3wK4UsMZJSz92prE/view?usp=share_link) and contact me by emailing owohgeorge@outlook.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1i61pdTobZMkVmp-0TuUpv0KhAkdlOU8b/view?usp=share_link) and contact me by emailing owohgeorge@outlook.com.
 - 💬 Ask me about my favorite Anime.
 - 👯 I’m looking to collaborate on OSS.
 <!-- ABOUT ME: END -->
