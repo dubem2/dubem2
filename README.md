@@ -32,8 +32,7 @@ src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534
 </a><br/><br/>
 <!-- SOCIAL ICONS: END -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dubem2&show_icons=true&include_all_commits=true&hide_border=true" alt="Philemon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemonnwanne&langs_count=8&layout=compact&hide_border=true" alt="Philemon's GitHub stats" /> |
-| ------------- | ------------- |
+
 
 <!-- ![counter](https://ennjviprh19fs24.m.pipedream.net) -->
 > You're visitor<br>
